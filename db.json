@@ -1,0 +1,92 @@
+{
+  "countrys": [
+    {
+      "id": "1",
+      "country_area": "europe",
+      "country_title": "Italy, Pica",
+      "country_num": "1173",
+      "country_img": "./images/sec3_img1.jpg",
+      "country_txt": "The Leaning Tower of Pisa, or simply the Tower of Pisa (torre di Pisa), is the campanile, or freestanding bell tower, of Pisa Cathedral. It is known for its nearly four-degree lean, the result of an unstable foundation. The tower is one of three structures in the Pisa's Cathedral Square (Piazza del Duomo), which includes the cathedral and Pisa Baptistry."
+    },
+    {
+      "id": "2",
+      "country_area": "europe",
+      "country_title": "Spain, Sagrada Família",
+      "country_num": "1882",
+      "country_img": "./images/sec3_img2.jpg",
+      "country_txt": "The Basílica i Temple Expiatori de la Sagrada Família, otherwise known as Sagrada Família, is a church under construction in the Eixample district of Barcelona, Catalonia, Spain. It is the largest unfinished Catholic church in the world. Designed by Catalan architect Antoni Gaudí (1852–1926), in 2005 his work on Sagrada Família was added to an existing (1984) UNESCO World Heritage Site, \"Works of Antoni Gaudí\". On 7 November 2010, Pope Benedict XVI consecrated the church and proclaimed it a minor basilica."
+    },
+    {
+      "id": "3",
+      "country_area": "ameria",
+      "country_title": "US, Fallingwater",
+      "country_num": "1935", 
+      "country_img": "./images/sec3_img3.jpg",  
+      "country_txt": "Fallingwater is a house designed by the architect Frank Lloyd Wright in 1935. Situated in the Mill Run section of Stewart township, in the Laurel Highlands of southwest Pennsylvania, about 70 miles (110 km) southeast of Pittsburgh in the United States, it is built partly over a waterfall on the Bear Run river. The house was designed to serve as a weekend retreat for Liliane and Edgar J. Kaufmann, the owner of Pittsburgh's Kaufmann's Department Store."
+    },
+    {
+      "id": "4",
+      "country_area": "asia",
+      "country_title": "Russia, Saint Basil's Cathedral",
+      "country_num": "1555",
+      "country_img": "./images/sec3_img4.jpg",
+      "country_txt": "The Cathedral of Vasily the Blessed (Russian: Собор Василия Блаженного, romanized: Sobor Vasiliya Blazhennogo), known in English as Saint Basil's Cathedral, is an Orthodox church in Red Square of Moscow, and is one of the most popular cultural symbols of Russia."
+    },
+    {
+      "id": "5",
+      "country_area": "oceania",
+      "country_title": "Australia, Sydney Opera House",
+      "country_num": "1050",
+      "country_img": "./images/sec3_img5.jpg",
+      "country_txt": "The Sydney Opera House is a multi-venue performing arts centre in Sydney, Australia. It is one of the most iconic and recognizable buildings in the world, known for its unique sail-like design and its location on Bennelong Point in Sydney Harbour."
+    },
+    {
+      "id": "6",
+      "country_area": "oceania",
+      "country_title": "New Zealand, Milford Sound",
+      "country_num": "1375",
+      "country_img": "./images/sec3_img6.jpg",
+      "country_txt": "Milford Sound is a fiord in the southwest of New Zealand's South Island. It is renowned for its dramatic scenery, including towering peaks, waterfalls, and dense rainforests. The sound is a popular tourist destination known for its natural beauty."
+    },
+    {
+      "id": "7",
+      "country_area": "oceania",
+      "country_title": "Fiji, Sigatoka Sand Dunes",
+      "country_num": "1738",
+      "country_img": "./images/sec3_img7.jpg",
+      "country_txt": "The Sigatoka Sand Dunes are located on the southwest coast of Viti Levu, Fiji. They are known for their archaeological significance, as the dunes have revealed evidence of early human settlement. The area is also celebrated for its natural beauty and unique landscape."
+    },
+    {
+    "id": "8",
+    "country_area": "asia",
+    "country_title": "Japan, Mount Fuji",
+    "country_num": "1002",
+    "country_img": "./images/sec3_img8.jpg",
+    "country_txt": "Mount Fuji is an active stratovolcano located on Honshu Island, Japan. It is the highest peak in Japan, standing at 3,776 meters (12,389 feet). The mountain is a prominent symbol of Japan and is known for its picturesque conical shape and cultural significance."
+  },
+  {
+    "id": "9",
+    "country_area": "asia",
+    "country_title": "China, Great Wall of China",
+    "country_num": "1259",
+    "country_img": "./images/sec3_img9.jpg",
+    "country_txt": "The Great Wall of China is a series of fortifications made of various materials that stretch across northern China. It was built to protect against invasions and raids from various nomadic groups. The wall is one of the most iconic landmarks in China and a UNESCO World Heritage Site."
+  },
+  {
+    "id": "10",
+    "country_area": "ameria",
+    "country_title": "Brazil, Christ the Redeemer",
+    "country_num": "1074",
+    "country_img": "./images/sec3_img10.jpg",
+    "country_txt": "Christ the Redeemer is a colossal statue of Jesus Christ located in Rio de Janeiro, Brazil. The statue stands 30 meters (98 feet) tall on a 8-meter (26 feet) pedestal and is one of the New Seven Wonders of the World. It overlooks the city from the 700-meter (2,300 feet) Corcovado Mountain."
+  },
+  {
+    "id": "11",
+    "country_area": "ameria",
+    "country_title": "Canada, CN Tower",
+    "country_num": "1655",
+    "country_img": "./images/sec3_img11.jpg",
+    "country_txt": "The CN Tower is a communications and observation tower in Toronto, Canada. It held the title of the world's tallest free-standing structure for 32 years, until 2009. The tower is an iconic part of Toronto's skyline and features an observation deck offering panoramic views of the city."
+  }
+  ]
+}
